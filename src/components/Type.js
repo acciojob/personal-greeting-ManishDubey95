@@ -12,7 +12,6 @@ const Type = () => {
 
     return(
         <div>
-            <p>Enter your name:</p>
             <form>
                 <input type="text" placeholder="Type anything..." 
                    onChange={print}
